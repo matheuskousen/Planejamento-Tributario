@@ -1,0 +1,26 @@
+# Planejamento Tributário com Tkinter
+
+Este projeto é uma aplicação Python para planejamento tributário, que calcula impostos com base no regime tributário escolhido. Utiliza a biblioteca Tkinter para criar uma interface gráfica e a biblioteca `locale` para formatar valores monetários em reais.
+
+## Funcionalidades
+
+- Calcula impostos para três regimes tributários:
+  - Simples Nacional
+  - Lucro Presumido
+  - Lucro Real
+- Formata valores monetários em reais dinamicamente.
+- Interface gráfica intuitiva com Tkinter.
+
+## Tecnologias Utilizadas
+
+- **Python**: Linguagem de programação.
+- **Tkinter**: Biblioteca para criar interfaces gráficas.
+- **Locale**: Biblioteca para formatação de moeda.
+- **Regular Expressions (re)**: Para manipulação e formatação de strings.
+
+## Instalação
+
+1. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/SeuUsuario/SeuRepositorio.git
